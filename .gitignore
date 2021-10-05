@@ -1,0 +1,3 @@
+*.htaccess
+/.idea
+*/cache/*
